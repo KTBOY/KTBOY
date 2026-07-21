@@ -5,7 +5,7 @@
 我是前端工程师，空闲的时候去研究新技术，写写小项目
 
 - 🔭 我目前正在广州。
-- 🌱 我目前正在学习React & Next，用于开发我的[个人作品网站](https://www.ps520.asia/projects)
+- 🌱 我目前正在学习React & Next，用于开发我的[个人作品网站](https://www.ps521.asia/projects)
 - 📫 如何联系我：1435787623@qq.com
 
 个人方向：大前端，Vue/React技术栈，TypeScript
