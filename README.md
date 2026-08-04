@@ -7,8 +7,8 @@
 - 🔭 我目前正在广州。
 - 🌱 我目前正在学习java & Next，用于开发我的[个人作品网站](https://www.ps521.asia/projects)
 - 📫 如何联系我：1435787623@qq.com
-
-个人方向：大前端，Vue/React技术栈，TypeScript
+- 博客园地址：https://www.cnblogs.com/shukesio
+个人方向：全栈，Vue/React技术栈，TypeScript
 
 - Vue、Vue 3、Vue-Router、Vuex、Pinia、Vite、Webpack。
 - React、React-Router、Redux、Zustand、Hooks。
