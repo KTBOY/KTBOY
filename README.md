@@ -10,6 +10,7 @@
 - 博客园地址：https://www.cnblogs.com/shukesio
 - Vue、Vue 3、Vue-Router、Vuex、Pinia、Vite、Webpack。
 - React、React-Router、Redux、Zustand、Hooks。
+- Electron
 - SSR Next、Nuxt、Jq、hls视频直播流
 - java 、Spring Boot
 - 更多跨端框架学习，包括但不限于 Taro、Uni-App、React-Native
