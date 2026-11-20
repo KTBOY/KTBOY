@@ -5,7 +5,7 @@
 我是前端工程师，空闲的时候去研究新技术，写写小项目
 
 - 🔭 我目前正在广州。
-- 🌱 我目前正在学习java & Next，用于开发我的[个人作品网站](https://www.ps521.asia/projects)
+- 🌱 我目前正在学习java & Next，用于开发我的[个人作品网站]([https://www.ps521.asia/projects](https://ktboy.github.io/sh-design/guide/about))
 - 📫 如何联系我：1435787623@qq.com
 - 博客园地址：https://www.cnblogs.com/shukesio
 - Vue、Vue 3、Vue-Router、Vuex、Pinia、Vite、Webpack。
