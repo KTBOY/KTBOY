@@ -14,7 +14,7 @@
 - SSR Next、Nuxt、Jq、hls视频直播流
 - java 、Spring Boot
 - 更多跨端框架学习，包括但不限于 Taro、Uni-App、React-Native
-- 微前端解决方案 qiankun。
+- AI Agent 工程化
 - 组件库、工具库、开源项目开发，详见 [舒克lab](https://github.com/KTBOY/shukelab) 、[珊瑚打码小程序 ](https://github.com/KTBOY/ydw) 、[react-admin](https://github.com/KTBOY/react-admin) 、[sk-jq-picker](https://github.com/KTBOY/sk-jq-picker)、 [sh-design](https://ktboy.github.io/sh-design/)
 - 服务器 + Nginx 配置、Docker、Koa2、node 等。
 - Ardot、剪映、FFDec、SOP视频工作流
